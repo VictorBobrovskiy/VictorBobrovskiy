@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**VictorBobrovskiy/VictorBobrovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Victor. I am a Java Developer from Argentina. I specialize in REST web services using Java and Spring Boot.
 
-Here are some ideas to get you started:
+My technology stack:
+Java
+Spring Framework, Spring Boot
+JDBC, Spring Data JPA, Hybernate ORM, Mybatis
+SQL, PostgreSQL, H2, Redis
+JUnit, AssertJ, Mockito
+Maven, Lombok, Docker
+Postman, Insomnia, Swagger
+Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a project called "TurnoMed"
+🌱 I’m currently learning ReactJS.
+👯 I’m looking to collaborate on gaining more working experience.
+🤔 I’m looking for help with finding a job.
+
+
