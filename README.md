@@ -6,11 +6,11 @@ My technology stack:
 • Java
 • Spring Framework, Spring Boot
 • JDBC, Spring Data JPA, Hybernate ORM, Mybatis
-• SQL, PostgreSQL, H2, Redis
+• SQL, PostgreSQL, H2, Redis, Firebase
 • JUnit, AssertJ, Mockito
 • Maven, Lombok, Docker
 • Postman, Insomnia, Swagger
-• Git, GitHub
+• Git, GitHub, GitLab
 
 🔭 I’m currently working on a project called "TurnoMed"
 
