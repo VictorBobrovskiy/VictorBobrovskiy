@@ -3,7 +3,7 @@ Hi there 👋
 My name is Victor. I am a Java Developer from Argentina. I specialize in REST web services using Java and Spring Boot.
 
 My technology stack:
-• Java
+• Java 8-11
 • Spring Framework, Spring Boot
 • JDBC, Spring Data JPA, Hybernate ORM, Mybatis
 • SQL, PostgreSQL, H2, Redis, Firebase
@@ -18,8 +18,6 @@ My technology stack:
 
 🌱 I’m currently learning Kotlin
 
-👯 I’m looking to collaborate on gaining more working experience
-
-🤔 I’m looking for help with finding a job
+🤔 I’m looking for a job in Buenos Aires, Argentina
 
 
