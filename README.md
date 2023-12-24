@@ -10,11 +10,13 @@ My technology stack:
 • JUnit, AssertJ, Mockito
 • Maven, Lombok, Docker
 • Postman, Insomnia, Swagger
-• Git, GitHub, GitLab
+• Git, GitHub
+• HTML, CSS, JavaScript, ReactJS
 
-🔭 I’m currently working on a project called "TurnoMed"
 
-🌱 I’m currently learning ReactJS
+🔭 I’m currently working on a project called TurnoMed where I want to try some new technologies such as Kotlin, Mybatis and Redis
+
+🌱 I’m currently learning Kotlin
 
 👯 I’m looking to collaborate on gaining more working experience
 
