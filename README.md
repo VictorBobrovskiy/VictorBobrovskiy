@@ -7,12 +7,10 @@ My technology stack:
 • Spring Framework, Spring Boot
 • JDBC, Spring Data JPA, Hybernate ORM, Mybatis
 • SQL, PostgreSQL, H2, Redis, Firebase
-• JUnit, AssertJ, Mockito
-• Maven, Lombok, Docker
-• Postman, Insomnia, Swagger
+• JUnit, AssertJ, Mockito, Postman, Insomnia
+• Maven, Lombok, Docker, Swagger
 • Git, GitHub
-• HTML, CSS, JavaScript, ReactJS
-
+• HTML, CSS, JavaScript, ReactJS, Node.js
 
 🔭 I’m currently working on a project called TurnoMed where I want to try some new technologies such as Kotlin, Mybatis and Redis
 
